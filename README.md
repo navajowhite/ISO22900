@@ -1,6 +1,6 @@
 # ISO22900
 
-D-PDU API library
+D-PDU API implementations
 | Supplier | Description | Link |
 | --- | --- | --- |
 | Vector Informatik GmbH | D-PDU API implementation used for accessing Vector Informatik GmbH MVCI interfaces | https://www.vector.com/kr/ko/download/d-pdu-api-1-0-sp17-windows/ |
